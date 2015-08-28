@@ -1,4 +1,4 @@
-# Vulture ![super cool vulture logo](client/images/vulture.png)
+# Vulture ![super cool vulture logo](client/images/vulture.svg)
 
 An advanced [MongoDB](http://www.mongodb.org/) data viewers in a web interface.  the
 project is inspired by [mongs](http://whit537.org/mongs/) but has additional features.
